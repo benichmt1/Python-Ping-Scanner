@@ -1,4 +1,4 @@
-#A single-threaded Python Ping Scanner
+#A single-threaded Python Ping Scanner - Michael Benich @benichmt1 
 #To do - work on the multithreading capabilities. Right now the output is being parsed which prevents the other thread from firing?
 
 #!/usr/bin/python
