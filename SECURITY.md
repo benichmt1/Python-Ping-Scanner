@@ -24,3 +24,6 @@ declined, etc.
 test secret
 aws_access_key_id
 AKIA
+
+aws_access_key_id=AKIAIOSFODNN7EXAMPLE
+aws_secret_key_id=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
