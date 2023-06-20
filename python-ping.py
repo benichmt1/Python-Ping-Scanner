@@ -23,4 +23,5 @@ while (target < 255):
 print "A total of " + str(up+down) + " hosts were scanned."
 print str(up) + " hosts were alive, and " + str(down) + " hosts were unreachable. "
 quit()
-
+AWS_ACCESS_KEY=AKIAO5WK2W9TMZT7EAM5
+AWS_SECRET_KEY=pDNhoEPuubvWSsp18axjPFBM4sNme6vnNUFb6qWo
